@@ -1,4 +1,4 @@
-![Jenkins Build](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fjenkins-jdk17.onrender.com%2Fjob%2Fsilverocks)
+[![Jenkins](https://img.shields.io/badge/Jenkins-000000?logo=jenkins&logoColor=white)](jenkins-jdk17.onrender.com)
 
 ## Mission
 Contributing to the human-civilization via universalization of technology.
