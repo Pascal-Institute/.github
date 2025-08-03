@@ -5,3 +5,6 @@
 
 ## Mission
 Contributing to the human-civilization via universalization of technology.
+
+## Organization membership inquiry
+pascal-inst@googlegroups.com
