@@ -6,4 +6,4 @@ Contributing to the human-civilization via universalization of technology.
 ### Provity : Trusted Software Validator
 [provity.duckdns.org](https://provity.duckdns.org)
 
-[provity.kro.kr](https://www.provity.kro.kr)
+[provity.kro.kr](https://provity.kro.kr)
